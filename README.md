@@ -1,7 +1,5 @@
 # MarkEdit
 
----
-
 This is a Markdown editor developed using [Svelte](https://svelte.dev/) and [Marked](https://www.npmjs.com/package/marked) library
 
 Install degit
